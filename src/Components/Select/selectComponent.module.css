@@ -1,0 +1,10 @@
+
+.selectContainer {
+    display: flex;
+    align-items: baseline;
+    width: 27rem;
+}
+
+.selectContainer span {
+    margin: 0 .3rem;
+}
